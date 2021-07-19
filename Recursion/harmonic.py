@@ -1,3 +1,4 @@
+# Exercise problem R-4.6
 def harmonic(n):
     if n == 1:
         return 1
